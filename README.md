@@ -1,3 +1,3 @@
 # страница деда мороза
 работу выполнила Апанасова Ксения <br>
-ссылка на страницу https://github.com/cxigan/santa.git
+ссылка на страницу https://cxigan.github.io/santa/
